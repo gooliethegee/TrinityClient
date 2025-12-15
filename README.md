@@ -2,7 +2,7 @@
   <img src="images/Nova_Icon.png" alt="Nova Client Logo" width="200"/>
 </p>
 
-# Nova Client: Advanced MITM Utility for Minecraft Bedrock
+# Trinity Client: Advanced MITM Utility for Minecraft Bedrock
 
 **Trinity Client** is a powerful open-source utility client designed for **Minecraft Bedrock Edition**. It leverages a sophisticated **MITM (Man-in-the-Middle)** approach to deliver advanced gameplay enhancements and utilities — **without modifying the game's memory or requiring root access.**
 
