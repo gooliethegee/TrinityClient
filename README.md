@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Nova_Icon.png" alt="Nova Client Logo" width="200"/>
+  <img src="images/Trinity_icon.png" alt="Trinity Client Logo" width="200"/>
 </p>
 
 # Trinity Client: Advanced MITM Utility for Minecraft Bedrock
@@ -18,7 +18,7 @@ Special thanks to [一剪沐橙](https://github.com/mucute-qwq) — this project
 
 - **Non-Intrusive Enhancement**: Works seamlessly without altering the Minecraft client, keeping your installation clean and secure.
 - **Advanced Packet Manipulation**: Provides comprehensive control over packet-level data for enhanced gameplay.
-- **Dual GUI System**: Choose between Classic, Nova, and ClickGUI themes for your preferred user experience.
+- **Dual GUI System**: Choose between Classic, Trinity, and ClickGUI themes for your preferred user experience.
 - **Extensive Module Library**: Wide range of utilities including combat, motion, visual, particle, effects, and miscellaneous enhancements.
 - **Real-Time Configuration**: Live adjustment of module settings without restarting the game.
 - **Smooth Performance**: Optimized for stable connections and minimal latency.
@@ -42,7 +42,7 @@ Trinity Client supports all **Minecraft Bedrock Edition platforms** through MITM
 
 ## 🎮 Module Categories
 
-Nova Client includes comprehensive modules organized into categories:
+Trinity Client includes comprehensive modules organized into categories:
 
 - **Combat**: Enhanced PvP capabilities and combat utilities
 - **Motion**: Movement enhancements and mobility features
@@ -63,7 +63,7 @@ Choose between three distinct interface themes:
 
 ## License
 
-Nova Client is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+Trinity Client is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 ### ✅ Permitted Uses
 
@@ -100,13 +100,13 @@ Any use of this program that violates applicable laws, terms of service, or caus
 ## 🤝 Contributions
 
 We welcome and appreciate contributions from the community!  
-Whether it's code, bug reports, suggestions, or documentation — every contribution helps improve **Nova Client**.
+Whether it's code, bug reports, suggestions, or documentation — every contribution helps improve **Trinity Client**.
 
 ---
 
 ## ⚠️ Disclaimer
 
-Nova Client is not affiliated with Mojang Studios, Microsoft, or any official Minecraft development team.
+Trinity Client is not affiliated with Mojang Studios, Microsoft, or any official Minecraft development team.
 
 Use Nova Client at your **own risk**.  
 We are **not responsible** for any bans, penalties, or issues that may result from using this client.
@@ -114,8 +114,3 @@ We are **not responsible** for any bans, penalties, or issues that may result fr
 **Always follow server rules and respect community standards.**
 
 ---
-
-## 💬 Community & Support
-
-Join our Discord to connect with other users, get support, and share ideas:  
-[discord.gg/wGxdgADCbZ](https://discord.gg/wGxdgADCbZ)
